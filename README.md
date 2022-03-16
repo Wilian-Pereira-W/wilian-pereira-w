@@ -19,6 +19,6 @@
   <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>
-<!-- 
-![Snake animation](https://github.com/Wilian-Pereira-W/Wilian-Pereira-W/blob/output/github-contribution-grid-snake.svg) -->
+
+![Snake animation](https://github.com/Wilian-Pereira-W/Wilian-Pereira-W/blob/output/github-contribution-grid-snake.svg)
 
