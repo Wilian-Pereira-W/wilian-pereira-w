@@ -2,9 +2,9 @@
 ### Olá! Eu sou o Wilian Pereira 🖐️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pereira-wilian/)
-<div>
+
 ![Wilian GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilian-Pereira-W&show_icons=true&theme=dracula) ![Wilian Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilian-Pereira-W&layout=compact&langs_count=7&theme=dracula)
-</div>
+  
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br />
