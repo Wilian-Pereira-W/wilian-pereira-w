@@ -1,5 +1,5 @@
 <div>
-  <h1>Olá! Eu sou o Wilian Pereira 🖐️</h1>
+  <h1>Olá! Eu sou o Wilian Pereira 🖐️.</h1>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pereira-wilian/)
@@ -7,7 +7,7 @@
 ![Wilian GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilian-Pereira-W&show_icons=true&theme=dracula) ![Wilian Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilian-Pereira-W&layout=compact&langs_count=7&theme=dracula)
   
 <div>
-  <h1>Tecnologias que eu uso no meu dia</h1>
+  <h1>Tecnologias que eu uso no meu dia.</h1>
 </div>
 
 <div style="display: inline_block"><br />
