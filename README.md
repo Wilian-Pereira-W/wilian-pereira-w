@@ -22,5 +22,15 @@
   <img alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>
 
-![Snake animation](https://github.com/Wilian-Pereira-W/Wilian-Pereira-W/blob/output/github-contribution-grid-snake.svg)
+##
+  
+<div align="center"> 
+  <a href="https://www.instagram.com/wilian.pereira92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wilianpereira25121992@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:wilian_pereira92@outlook.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/outlook_button_icon_151845.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pereira-wilian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Wilian-Pereira-W/Wilian-Pereira-W/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
