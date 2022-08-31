@@ -1,6 +1,8 @@
-<div align="center">
-  <h1>Olá! Eu sou o Wilian Pereira 🖐️.</h1>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383a59&height=150&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Wilian+Pereira+🖐️.)](https://git.io/typing-svg)
+
+##
 
 <div align="center">
   <a href="https://github.com/Wilian-Pereira-W">
