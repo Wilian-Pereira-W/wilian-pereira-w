@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383a59&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Wilian+Pereira+🖐️.)](https://git.io/typing-svg)
+<h1>Olá, Eu sou o Wilian Pereira. 🖐️</h1>
+
+<h3>- 🌱 Atualmente estou aprendendo TypeScript.</h3>
+<h3>- 📫 Como entrar em contato comigo: wilian_pereira92@outlook.com</h3>
+<h3>- 😄 Pronomes: Ele/dele.</h3>
 
 ##
 
@@ -28,8 +32,6 @@
   
 <div align="center"> 
   <a href="https://www.instagram.com/wilian.pereira92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wilianpereira25121992@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="mailto:wilian_pereira92@outlook.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/outlook_button_icon_151845.png" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/pereira-wilian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Wilian-Pereira-W/Wilian-Pereira-W/blob/output/github-contribution-grid-snake.svg)
