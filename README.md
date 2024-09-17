@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383a59&height=150&section=header"/>
 
 <h1>Olá, me chamo Wilian Pereira. 🖐️</h1>
-<h3>Tenho 29 anos, moro em Nazaré Paulista/SP e sou apaixonado por programação e game!</h3>
+<h3>Tenho 31 anos, moro em Nazaré Paulista/SP e sou apaixonado por programação!</h3>
 
 <h3>🌱 Atualmente estou aprendendo TypeScript.</h3>
 <h3>😄 Pronomes: Ele/dele.</h3>
