@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383a59&height=150&section=header"/>
 
 <h1>Olá, me chamo Wilian Pereira. 🖐️</h1>
-<h3>Tenho 33 anos, moro em Nazaré Paulista/SP e sou apaixonado por programação!</h3>
+<h3>Um entusiasta de tecnologia de 33 anos, natural de Nazaré Paulista/SP, que encontrou na programação sua verdadeira paixão. Movido por desafios, foco em transformar ideias em linhas de código eficientes e de alto impacto.</h3>
 
 <h3>😄 Pronomes: Ele/dele.</h3>
 <h3>📫 Como entrar em contato comigo: wilian_pereira92@outlook.com</h3>
