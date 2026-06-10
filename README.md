@@ -10,19 +10,10 @@
   <a href="https://www.instagram.com/wilian.pereira92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pereira-wilian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </>
- 
-##
 
-<div align="center">
-  <a href="https://github.com/Wilian-Pereira-W">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wilian-Pereira-W&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilian-Pereira-W&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-##
 
 <div style="display: inline_block" align="center"><br />
-  <img alt="nextJs" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img alt="nextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
