@@ -6,12 +6,12 @@
 <h2> Minha Stack Principal:</h2>
 
 <h3>Front-end: Next.js, React, TypeScript, JavaScript, Tailwind CSS.</h3>
-<h3>Testes & QA: Playwright, Jest, RTL, Cypress.</h3>
+<h3>Testes & QA: Playwright, Jest, RTL, Postman e Cypress.</h3>
 
+<div>
 <h2>Quer conhecer mais sobre meu trabalho?</h2>
 <h3>📩 Contato: wilian_pereira92@outlook.com</h3>
-
-
+</div>
 
 <div> 
   <a href="https://www.instagram.com/wilian.pereira92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
