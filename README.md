@@ -1,10 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383a59&height=150&section=header"/>
 
 <h1>Olá, me chamo Wilian Pereira. 🖐️</h1>
-<h3>Um entusiasta de tecnologia de 33 anos, natural de Nazaré Paulista/SP, que encontrou na programação sua verdadeira paixão. Movido por desafios, foco em transformar ideias em linhas de código eficientes e de alto impacto.</h3>
+<h3>Sou Desenvolvedor Front-end com uma sólida bagagem técnica em desenvolvimento de software e qualidade de código. Minha missão é construir interfaces modernas, fluidas e altamente testadas, garantindo a melhor experiência para o usuário.  Atualmente, trabalho com o ecossistema moderno do React: Next.js, TypeScript e Tailwind CSS. Além de codificar novas features, tenho forte foco em performance, otimização de Core Web Vitals e garantia de qualidade de código através de testes automatizados com Jest, React Testing Library e Playwright.  Também possuo experiência em metodologias ágeis (Scrum/Kanban) utilizando ferramentas como Jira e GitLab para versionamento e Code Review.</h3>
 
-<h3>😄 Pronomes: Ele/dele.</h3>
-<h3>📫 Como entrar em contato comigo: wilian_pereira92@outlook.com</h3>
+<h2> Minha Stack Principal:</h2>
+
+<h3>Front-end: Next.js, React, TypeScript, JavaScript, Tailwind CSS.</h3>
+<h3>Testes & QA: Playwright, Jest, RTL, Cypress.</h3>
+
+<h2>Quer conhecer mais sobre meu trabalho?</h2>
+<h3>📩 Contato: wilian_pereira92@outlook.com</h3>
+
+
 
 <div> 
   <a href="https://www.instagram.com/wilian.pereira92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
