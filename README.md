@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383a59&height=150&section=header"/>
 
 <h1>Olá, me chamo Wilian Pereira. 🖐️</h1>
-<h3>Sou Desenvolvedor Front-end com uma sólida bagagem técnica em desenvolvimento de software e qualidade de código. Minha missão é construir interfaces modernas, fluidas e altamente testadas, garantindo a melhor experiência para o usuário.  Atualmente, trabalho com o ecossistema moderno do React: Next.js, TypeScript e Tailwind CSS. Além de codificar novas features, tenho forte foco em performance, otimização de Core Web Vitals e garantia de qualidade de código através de testes automatizados com Jest, React Testing Library e Playwright.  Também possuo experiência em metodologias ágeis (Scrum/Kanban) utilizando ferramentas como Jira e GitLab para versionamento e Code Review.</h3>
+<p>Sou Desenvolvedor Front-end com uma sólida bagagem técnica em desenvolvimento de software e qualidade de código. Minha missão é construir interfaces modernas, fluidas e altamente testadas, garantindo a melhor experiência para o usuário.  Atualmente, trabalho com o ecossistema moderno do React: Next.js, TypeScript e Tailwind CSS. Além de codificar novas features, tenho forte foco em performance, otimização de Core Web Vitals e garantia de qualidade de código através de testes automatizados com Jest, React Testing Library e Playwright.  Também possuo experiência em metodologias ágeis (Scrum/Kanban) utilizando ferramentas como Jira e GitLab para versionamento e Code Review.</p>
 
 <h2> Minha Stack Principal:</h2>
 
-<h3>Front-end: Next.js, React, TypeScript, JavaScript, Tailwind CSS.</h3>
-<h3>Testes & QA: Playwright, Jest, RTL, Postman e Cypress.</h3>
+<h3><strong>Front-end:</strong> Next.js, React, TypeScript, JavaScript, Tailwind CSS.</h3>
+<h3><strong>Testes & QA:</strong> Playwright, Jest, RTL, Postman e Cypress.</h3>
+<h3><strong>Ferramentas:</strong> Git, GitHub, GitLab, Sentry, Jira, Figma, Docker, Visual Studio Code, Cursor.</h3>
+<h3><strong>Back-end:</strong> Node.js, NestJS, PostgreSQL.</h3>
 
 <div>
 <h2>Quer conhecer mais sobre meu trabalho?</h2>
@@ -14,7 +16,6 @@
 </div>
 
 <div> 
-  <a href="https://www.instagram.com/wilian.pereira92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pereira-wilian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </>
 
