@@ -51,6 +51,11 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Core_Web_Vitals-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</p>
+
 <h3>🧪 Testes e Quality Assurance</h3>
 
 <p>
