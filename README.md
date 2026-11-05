@@ -21,13 +21,18 @@
 
 <p>Estou sempre aberto a novas oportunidades, parcerias ou a um bate-papo sobre tecnologia!</p>
 
-<p>
-  <a href="https://www.linkedin.com/in/pereira-wilian/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <span>📬 wilian_pereira92@outlook.com</span>
-</p>
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/pereira-wilian/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td valign="middle">
+      📬 wilian_pereira92@outlook.com
+    </td>
+  </tr>
+</table>
 
 <!-- TECNOLOGIAS -->
 
