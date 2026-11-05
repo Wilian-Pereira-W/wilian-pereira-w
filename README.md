@@ -1,37 +1,144 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383a59&height=150&section=header"/>
+<!-- APRESENTAÇÃO -->
 
-<h1>Olá, me chamo Wilian Pereira. 🖐️</h1>
-<p>Sou Desenvolvedor Front-end com uma sólida bagagem técnica em desenvolvimento de software e qualidade de código. Minha missão é construir interfaces modernas, fluidas e altamente testadas, garantindo a melhor experiência para o usuário.  Atualmente, trabalho com o ecossistema moderno do React: Next.js, TypeScript e Tailwind CSS. Além de codificar novas features, tenho forte foco em performance, otimização de Core Web Vitals e garantia de qualidade de código através de testes automatizados com Jest, React Testing Library e Playwright.  Também possuo experiência em metodologias ágeis (Scrum/Kanban) utilizando ferramentas como Jira e GitLab para versionamento e Code Review.</p>
+<h1 align="center">Olá, eu sou Wilian Pereira! 👋</h1>
 
-<h2> Minha Stack Principal:</h2>
+<h3 align="center">
+  Desenvolvedor Front-end | React | Next.js | TypeScript
+</h3>
 
-<h3><strong>Front-end:</strong> Next.js, React, TypeScript, JavaScript, Tailwind CSS.</h3>
-<h3><strong>Testes & QA:</strong> Playwright, Jest, RTL, Postman e Cypress.</h3>
-<h3><strong>Ferramentas:</strong> Git, GitHub, GitLab, Sentry, Jira, Figma, Docker, Visual Studio Code, Cursor.</h3>
-<h3><strong>Back-end:</strong> Node.js, NestJS, PostgreSQL.</h3>
+<p align="center">
+  Desenvolvedor Front-end com experiência em desenvolvimento de software e Quality Assurance (QA).
+  <br/>
+  Focado na construção de aplicações modernas, performáticas e com qualidade de código.
+</p>
 
-<div>
-<h2>Quer conhecer mais sobre meu trabalho?</h2>
-<h3>📩 Contato: wilian_pereira92@outlook.com</h3>
-</div>
+<p align="center">
+  Trabalho com o ecossistema React, principalmente Next.js, TypeScript e Tailwind CSS.
+  Também tenho experiência com automação de testes, otimização de performance e Core Web Vitals.
+</p>
 
-<div> 
-  <a href="https://www.linkedin.com/in/pereira-wilian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pereira-wilian/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:wilian_pereira92@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Wilian-Pereira-W" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
+<!-- TECNOLOGIAS -->
 
-<div style="display: inline_block" align="center"><br />
-  <img alt="nextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="nodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-</div>
+<h2>🚀 Tecnologias e ferramentas</h2>
 
+<h3>💻 Front-end</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+
+<h3>🧪 Testes e Quality Assurance</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+<h3>⚙️ Back-end e banco de dados</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<h3>🛠️ Ferramentas</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+</p>
+
+<!-- EXPERIÊNCIA PROFISSIONAL -->
+
+<h2>💼 Experiência profissional em destaque</h2>
+
+<h3>🏢 MySide — Plataforma imobiliária</h3>
+
+<p>
+  Quase 4 anos de experiência profissional na MySide, atuando em
+  Quality Assurance (QA) e Desenvolvimento Front-end, com evolução
+  de Analista de QA para Desenvolvedor Front-end Pleno.
+</p>
+
+<h3>🧪 Analista de Qualidade (QA)</h3>
+
+<p><strong>Novembro/2022 – Maio/2024 · 1 ano e 7 meses</strong></p>
+
+<ul>
+  <li>Execução de testes funcionais, exploratórios e de regressão.</li>
+  <li>Identificação, documentação e acompanhamento de bugs.</li>
+  <li>Validação de funcionalidades e experiência do usuário.</li>
+  <li>Colaboração com desenvolvimento e produto para garantir a qualidade das entregas.</li>
+</ul>
+
+<h3>💻 Desenvolvedor Front-end</h3>
+
+<p><strong>Maio/2024 – Maio/2026 · aproximadamente 2 anos</strong></p>
+
+<ul>
+  <li>Desenvolvimento e manutenção de aplicações web com Next.js e React.</li>
+  <li>Implementação de interfaces e funcionalidades utilizando TypeScript e JavaScript.</li>
+  <li>Integração com APIs REST e criação de componentes reutilizáveis.</li>
+  <li>Desenvolvimento de testes com Jest e React Testing Library.</li>
+  <li>Otimização de performance, SEO, acessibilidade e Core Web Vitals.</li>
+  <li>Monitoramento de erros em produção utilizando Sentry.</li>
+</ul>
+
+<p>
+  <strong>Tecnologias:</strong> Next.js, React, TypeScript, JavaScript,
+  Jest, React Testing Library e Sentry.
+</p>
+
+<p>
+  🔗 <a href="https://myside.com.br/" target="_blank">Conheça a MySide</a>
+</p>
+
+<p>
+  <sub>Experiência profissional em projeto com código-fonte privado.</sub>
+</p>
+
+<!-- ESTATÍSTICAS -->
+
+<h2>📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Wilian-Pereira-W&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wilian-Pereira-W&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <strong>💡 Sempre aprendendo, evoluindo e construindo soluções melhores.</strong>
+</p>
+
+<p align="center">
+  Obrigado pela visita! 🚀
+</p>
